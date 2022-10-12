@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! My name is Ray and I'm a former Patient Care Technician turned Full-Stack Software engineering student from Washington State.  I enjoy creating new projects, collaborating with other engineers, and learning new languages that would improve my coding abilities! Outside of coding I am video game fanatic for RPGs, Photography, Hiking, and fitness.
 
-I am currently open for SWE/intership roles, so feel free to reach out to me on LinkedIn!
+I am currently open for SWE/internship roles, so feel free to reach out to me on LinkedIn!
 
 
 ## 🌐 Socials:
