@@ -10,7 +10,7 @@ I am currently open for SWE/internship roles, so feel free to reach out to me on
 ## My Projects:
  * [__Rayddit__](https://rddit.herokuapp.com/) -  A Full-Stack Reddit clone utilizing Python, Flask, SQLAlchemy, Redux, and React.
  * [__Seabnb__](https://ray-airbnb-clone.herokuapp.com/) - A Full-Stack Airbnb clone featuring Coastal and Beach rentals,  utilizing Javascript, React, Redux, Express, SQLite, and NodeJS
- * [__InstaCrumbz__](https://instacrumbz.herokuapp.com/) - A Full-Stack Instagram clone parody featuring left over meals, made in colaboration with 3 other software engineers utilizing Python, Flask, SQLAlchemy, Redux, and React.
+ * [__InstaCrumbz__](https://instacrumbz.herokuapp.com/) - A Full-Stack Instagram clone parody featuring left over meals, made in collaboration with 3 other software engineers utilizing Python, Flask, SQLAlchemy, Redux, and React.
 # 💻 Tech Stack:
 ## Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
