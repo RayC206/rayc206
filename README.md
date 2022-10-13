@@ -5,7 +5,7 @@ I am currently open to work for any SWE/internship roles, so feel free to reach 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ray-charles-henry/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ray-charles-henry/) 
 
 ## My Projects:
  * [__Rayddit__](https://rddit.herokuapp.com/) -  A Full-Stack Reddit clone utilizing Python, Flask, SQLAlchemy, Redux, and React.
