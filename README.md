@@ -4,8 +4,11 @@ Hello! My name is Ray and I'm a former Patient Care Technician turned Full-Stack
 I am currently open to work for any SWE/internship roles, so feel free to reach out to me on LinkedIn!
 
 
+* [__My Portfolio site__](https://rayc206.github.io/)
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ray-charles-henry/) 
+*[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ray-charles-henry/) 
+
 
 ## My Projects:
  * [__Rayddit__](https://rddit.herokuapp.com/) -  A Full-Stack Reddit clone utilizing Python, Flask, SQLAlchemy, Redux, and React.
