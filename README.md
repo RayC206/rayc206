@@ -10,7 +10,7 @@ I am currently open to work for any SWE/internship roles, so feel free to reach 
 * [__My Portfolio site__](https://rayc206.github.io/)
 
 ## My Projects:
- * [__Rayddit__](https://rddit.herokuapp.com/) -  A Full-Stack Reddit clone utilizing Python, Flask, AWS, SQLAlchemy, Redux, AWS, and React. 
+ * [__Rayddit__](https://rddit.herokuapp.com/) -  A Full-Stack Reddit clone utilizing Python, Flask, SQLAlchemy, Redux, AWS, and React. 
  * [__Seabnb__](https://ray-airbnb-clone.herokuapp.com/) - A Full-Stack Airbnb clone featuring Coastal and Beach rentals,  utilizing Javascript, React, Redux, Express, SQLite, and NodeJS (AWS coming soon)
  * [__InstaCrumbz__](https://instacrumbz.herokuapp.com/) - A Full-Stack Instagram clone parody featuring left over meals, made in collaboration with 3 other software engineers utilizing Python, Flask, SQLAlchemy, Redux, and React. (AWS coming soon)
 # 💻 Tech Stack:
