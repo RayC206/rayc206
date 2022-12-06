@@ -1,7 +1,9 @@
 # 💫 About Me:
-Hello! My name is Ray and I'm a former Patient Care Technician turned Full-Stack Software engineer from Washington State. I enjoy creating new projects, collaborating with other software engineers, and learning new languages that would improve my coding skills. Outside of coding I am a video game fanatic (especially RPGs), amateur photographer, avid hiker, and a fitness enthusiast.
+Hi there! My name is Ray and I'm a Full-Stack Software Engineer based in Washington State. Before becoming a software engineer, I worked as a Patient Care Technician, which gave me valuable experience working in a team and solving problems under pressure.
 
-I am currently open to work for any SWE/internship roles, so feel free to reach out to me on LinkedIn!
+As a software engineer, I enjoy creating new projects, collaborating with other engineers, and continuously learning new languages and technologies to improve my skills. In my free time, I am a passionate video game player (especially RPGs), amateur photographer, avid hiker, and fitness enthusiast.
+
+I am currently looking for opportunities in the field of software engineering, whether as a full-time engineer or an intern. If you're interested in connecting, please feel free to reach out to me on LinkedIn.
 
 
 
