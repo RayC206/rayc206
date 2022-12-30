@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, My name is Ray and I'm a Full-Stack Software Engineer based in Washington State. Before becoming a software engineer, I worked as a Patient Care Technician, which gave me valuable experience working in a team and solving problems under pressure.
+ My name is Ray and I'm a Full-Stack Software Engineer based in Washington State. Before becoming a software engineer, I worked as a Patient Care Technician, which gave me valuable experience working in a team and solving problems under pressure.
 
 As a software engineer, I enjoy creating new projects, collaborating with other engineers, and continuously learning new languages and technologies to improve my skills. In my free time, I am a passionate video game player (especially RPGs), amateur photographer, avid hiker, and fitness enthusiast.
 
