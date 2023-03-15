@@ -3,7 +3,7 @@
 
 As a software engineer, I enjoy creating new projects, collaborating with other engineers, and continuously learning new languages and technologies to improve my skills. In my free time, I am a passionate video game player (especially RPGs), amateur photographer, avid hiker, and fitness enthusiast.
 
-I am currently looking for opportunities in the field of software engineering, whether as a full-time engineer or an intern. If you're interested in connecting, please feel free to reach out to me on LinkedIn.
+I am currently looking for opportunities in the field of software engineering, whether as a full-time engineer, QA engineer, or an internship. If you're interested in connecting, please feel free to reach out to me on LinkedIn.
 
 
 
