@@ -13,7 +13,7 @@ I am currently looking for opportunities in the field of software engineering, w
 
 ## My Projects:
  * [__Rayddit__](https://rddit.herokuapp.com/) -  Join the conversation with my Full-Stack Reddit clone, built with Python, Flask, SQLAlchemy, Redux, AWS, and React. 
- * [__Seabnb__](https://ray-airbnb-clone.herokuapp.com/) - A Full-Stack Airbnb clone featuring Coastal and Beach rentals,  utilizing Javascript, React, Redux, Express, SQLite, and NodeJS.
+ * [__Seabnb__](https://ray-airbnb-clone.herokuapp.com/) - A Full-Stack Airbnb clone featuring Coastal and Beach rentals,  utilizing Javascript, React, Redux, Express, SQLite, NodeJS, and Google Maps API.
  * [__InstaCrumbz__](https://instacrumbz.herokuapp.com/) - A Full-Stack Instagram clone parody featuring left over meals, made in collaboration with 3 other software engineers utilizing Python, Flask, SQLAlchemy, Redux, and React. (AWS coming soon)
 # 💻 Tech Stack:
 ## Languages
