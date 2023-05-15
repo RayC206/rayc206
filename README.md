@@ -3,7 +3,7 @@
 
 As a engineer I enjoy creating new projects, collaborating with others, and continuously learning new languages or technologies to improve my skills. Outside of work and studying I enjoy running, weight lifting, traveling, and learning about new tech hardware. 
 
-I am currently looking for opportunities in the field of software engineering, whether as a full-time engineer, QA engineer, or an internship. If you're interested in connecting, please feel free to reach out to me on LinkedIn.
+I am currently seeking opportunities in the field of software engineering, whether as a full-time engineer, QA engineer, or an internship. If you're interested in connecting, please feel free to reach out to me on LinkedIn.
 
 
 
