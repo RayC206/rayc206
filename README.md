@@ -1,9 +1,9 @@
 # 💫 About Me:
  My name is Ray Charles ( or just "Ray" for short),  and I'm a Full-Stack Software Engineer based in Washington State. Before becoming a Software engineer, I worked as a Patient Care Technician, which gave me valuable experience working in a team and solving problems under pressure.
 
-As a engineer I enjoy creating new projects, collaborating with others, and continuously learning new languages or technologies to improve my skills. Outside of work and studying I enjoy running, weight lifting, traveling, and learning about new tech hardware. 
+As a engineer I enjoy creating new projects, collaborating with others, and continuously learning new languages or technologies to improve my skills. Outside of work and studying I enjoy running, hiking, and traveling.
 
-I am currently seeking opportunities in the field of software engineering, whether as a full-time engineer, QA engineer, or an internship. If you're interested in connecting, please feel free to reach out to me on LinkedIn.
+I am currently seeking opportunities in the field of software engineering, whether as a full-time engineer or an internship. If you're interested in connecting, please feel free to reach out to me on LinkedIn.
 
 
 
