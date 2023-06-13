@@ -1,5 +1,5 @@
 # 💫 About Me:
- My name is Ray Charles ( or just "Ray" for short),  and I'm a Full-Stack Software Engineer based in Washington State. Before becoming a Software engineer, I worked as a Patient Care Technician, which gave me valuable experience working in a team and solving problems under pressure.
+ My name is Ray Charles ( or just "Ray" for short),  and I'm a Software Engineer based in Washington State. Before becoming a Software engineer, I worked as a Patient Care Technician during the COVID-19 Pandemic, which gave me valuable experience working in a team and solving problems under pressure.
 
 As a engineer I enjoy creating new projects, collaborating with others, and continuously learning new languages or technologies to improve my skills. Outside of work and studying I enjoy running, hiking, and traveling.
 
